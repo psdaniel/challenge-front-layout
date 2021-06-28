@@ -1,6 +1,6 @@
 import { useStyles } from './header.styles'
 import logo from '../assets/logo.png'
-import { LinkButton } from '../shared/components/link-button/link-button'
+import { LinkButton } from '../shared/components/link-button'
 
 export const Header = () => {
   const classes = useStyles()
